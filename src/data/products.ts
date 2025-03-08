@@ -27,7 +27,7 @@ export const products = [
     id: 4,
     name: "Stand Mixer",
     price: 299,
-    category: "kitchen",
+    category: "kitchens",
     image: "https://images.pexels.com/photos/1450907/pexels-photo-1450907.jpeg?auto=compress&cs=tinysrgb&w=600",
     description: "Professional stand mixer for baking"
   }
